@@ -66,7 +66,7 @@
 ![image](https://user-images.githubusercontent.com/94855641/205345381-5a891b4d-8774-4fc7-8f4a-944bf081a16e.png)
 
 
-- Добавление данных в таблицу с помощью скрипта, [ссылка на скрипт]
+- Добавление данных в таблицу с помощью скрипта, [ссылка на скрипт](https://github.com/Nesmiyanovvv/TheSecondLabGameDev/blob/67ed48c5931a677b3b652dc3dcb9172350bb18c1/main.py)
 
 ![6](https://user-images.githubusercontent.com/94855641/205345574-7a0a5d67-9561-45e7-88bb-e23a0189fb7b.png)
 
@@ -91,7 +91,7 @@
 ![image](https://user-images.githubusercontent.com/94855641/205348445-69f26c65-e525-4e6d-b4dc-72bf5c77bdcb.png)
 
 
-- Скрипт включения разных вариантов звука при определенных условиях, ссылка на скрипт
+- Скрипт включения разных вариантов звука при определенных условиях, [ссылка на скрипт](https://github.com/Nesmiyanovvv/TheSecondLabGameDev/blob/67ed48c5931a677b3b652dc3dcb9172350bb18c1/NewBehaviourScript.cs)
 
 ![image](https://user-images.githubusercontent.com/94855641/205348621-f4fa1df2-82d5-49d1-984b-c4d0a68933bc.png)
 <img width="1792" alt="13" src="https://user-images.githubusercontent.com/94855641/205348675-001eefcf-1270-4f94-b1fc-066eedd98ffe.png">
@@ -105,7 +105,7 @@
 
 # Задание 2
 
-- Реализация скрипта по заполнению таблицы параметром loss через каждые 150 итераций, ссылка на скрипт
+- Реализация скрипта по заполнению таблицы параметром loss через каждые 150 итераций, [ссылка на скрипт](https://github.com/Nesmiyanovvv/TheSecondLabGameDev/blob/67ed48c5931a677b3b652dc3dcb9172350bb18c1/loss_func.py)
 
 ![image](https://user-images.githubusercontent.com/94855641/205349091-aaa18d62-e6d3-424d-8b1a-5dc6eb25fb2d.png)
 
@@ -118,7 +118,7 @@
 
 # Задание 3
 
-- Изменение границ воспроизведения различных реплик в скрипте C#, изменение количества распарсившихся из JSON параметров, ссылка на скрипт
+- Изменение границ воспроизведения различных реплик в скрипте C#, изменение количества распарсившихся из JSON параметров, [ссылка на скрипт](https://github.com/Nesmiyanovvv/TheSecondLabGameDev/blob/67ed48c5931a677b3b652dc3dcb9172350bb18c1/NewBehaviourScript_loss.cs)
 
 <img width="1792" alt="ewewewe" src="https://user-images.githubusercontent.com/94855641/205349750-87281ab4-ad90-496b-b550-58ba484e3ca9.png">
 
